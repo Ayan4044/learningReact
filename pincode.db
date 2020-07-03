@@ -1,0 +1,47 @@
+ [{
+ 		"name": "Arundhutinagar",
+ 		"BranchType": "Sub Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "Badharghat",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "Bhattapukur",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "Charipara",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "Ishanchandranagar",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "Madhuban",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+
+ 		"name ": "Ranirkhamar",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	},
+ 	{
+ 		"name": "S.D.Mission Colony",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Non-Delivery"
+ 	},
+ 	{
+ 		"name": "Siddhi Ashram",
+ 		"BranchType": "Branch Post Office",
+ 		"DeliveryStatus": "Delivery"
+ 	}
+ ]
